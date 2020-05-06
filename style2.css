@@ -1,0 +1,70 @@
+#title {
+text-align: center;
+font-size: 3em;
+}
+p {
+    text-align: center;
+}
+#image {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 750px;
+    max-width: 100%;
+    
+}
+
+#main {
+    background-color: #ededed;
+    
+}
+    
+    
+
+
+#birth {
+    
+    border: 2px solid grey;
+    border-radius: 1em;
+    margin-bottom: 20px;
+    background-color: lightgrey;
+}
+#business {
+    margin-bottom: 20px;
+    border: 2px solid grey;
+    border-radius: 1em;
+    background-color: lightgrey;
+}
+#politics {
+    
+    border: 2px solid grey;
+    border-radius: 1em;
+    background-color: lightgrey;
+}
+
+#tribute-link {
+    text-align: center;
+    font-size: large;
+}
+#img-caption, #tribute-info {
+    text-align: center;
+}
+#birth, #politics {
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 1.5em;
+    text-align: justify;
+    padding: 5px 30px 10px 20px;
+}
+#business {
+    line-height: 1.5em;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+    padding: 5px 30px 10px 20px;
+}
+#tribute-info {
+    font-size: 1.8em;
+}
+
